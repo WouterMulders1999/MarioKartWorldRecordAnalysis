@@ -1,7 +1,7 @@
 requests
 bs4
 pandas
-sklearn
+scikit-learn
 streamlit
 re
 altair
