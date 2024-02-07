@@ -3,5 +3,5 @@ bs4
 pandas
 scikit-learn
 streamlit
-re
+regex
 altair
