@@ -1,0 +1,7 @@
+requests
+bs4
+pandas
+sklearn
+streamlit
+re
+altair
