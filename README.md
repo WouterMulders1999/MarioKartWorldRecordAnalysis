@@ -1,4 +1,6 @@
 # Mario Kart World Record Analysis
+![mk7streamlit](https://github.com/WouterMulders1999/MarioKartWorldRecordAnalysis/assets/92525645/a741c7f2-5f7a-4749-93c6-a7f78249fbf8)
+
 This repo contains the source code for the [Mario Kart 7 World Record Analysis app](https://mariokartworldrecordanalysis-cz2n83nsuer7ckxmj3ezee.streamlit.app/).
 Under the hood, this code retrieves data from the [official world record history](https://mkwrs.com/mk7/) for each course in the game.
 
@@ -13,3 +15,4 @@ Or when a player unfortunately fails a run on the third lap, the tool can be use
 For some more visually interesting graphs and statistics, I refer to the Mario Kart 7 PowerBI dashboards. These dashboards include various visuals, highlighting
 strategies used on various tracks in the game.
 
+Please note that sometimes the app goes 'offline' meaning that I have to restart it. In that case, please send me a message either on GitHub or on Discord (username: wouter_mk)
