@@ -10,7 +10,7 @@ throughout the history of Mario Kart 7.
 
 Interestingly enough, most graphs show a clear linear trend. Therefore the app also contains a fun tool to predict what time a player can get based on one or more lap times.
 For instance, players who have just started learning a new track can use this tool can see what kind of time to expect given some of their lap times.
-Or when a player unfortunately fails a run on the third lap, the tool can be used to receive an estimate of what time they could have gotten.
+Or when a player unfortunately fails a run on the third lap, the tool can be used to receive an estimate of what time they could have gotten. Note that these times are just predicted times. On some courses that have had radical strategy changes in the past, such as Wario's Shipyard, these predictions may prove to be inaccurate.
 
 For some more visually interesting graphs and statistics, I refer to the Mario Kart 7 PowerBI dashboards. These dashboards include various visuals, highlighting
 strategies used on various tracks in the game.
